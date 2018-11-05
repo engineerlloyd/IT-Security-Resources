@@ -1,0 +1,4 @@
+# Static Analysis
+virustotal
+strings
+packed?
