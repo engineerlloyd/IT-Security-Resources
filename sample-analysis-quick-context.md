@@ -1,4 +1,4 @@
 # Static Analysis
-* virustotal
-* strings
+* virustotal submission
+* strings search
 * packed?
