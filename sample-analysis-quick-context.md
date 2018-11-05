@@ -1,4 +1,4 @@
 # Static Analysis
-virustotal
-strings
-packed?
+* virustotal
+* strings
+* packed?
