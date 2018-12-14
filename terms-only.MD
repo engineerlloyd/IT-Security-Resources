@@ -1,1 +1,1 @@
-# complete list terms only no definitions
+# Complete list of terms
